@@ -176,3 +176,5 @@
 
 // stack.removeAt(2); // Remove value at index 2 (value 30)
 // stack.print(); // [10, 20, 40, 50]
+
+
