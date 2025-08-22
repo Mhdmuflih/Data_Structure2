@@ -173,6 +173,5 @@
 // stack.push(40);
 // stack.push(50);
 // stack.print(); // [10, 20, 30, 40, 50]
-
 // stack.removeAt(2); // Remove value at index 2 (value 30)
 // stack.print(); // [10, 20, 40, 50]
