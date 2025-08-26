@@ -154,7 +154,6 @@
 //         while (this.item.length - 1 > indexToRemove) {
 //             tempStack.push(this.pop());
 //         }
-
 //         // Remove the target element
 //         this.pop();
 
